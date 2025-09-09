@@ -6,8 +6,8 @@
 <img width="696" height="400" alt="image" src="https://github.com/user-attachments/assets/7c75181d-4d3d-4a5d-ba33-022ebbba2742" />
 
 
-
-
+- [Scenario Creation
+](https://github.com/cybervl/threathunting/blob/main/threat-hunting-scenario-tor-event-creation.md)
 
 ## Platforms and Languages Leveraged
 - Windows 10 Virtual Machines (Microsoft Azure)
